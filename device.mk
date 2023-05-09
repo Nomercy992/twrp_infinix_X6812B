@@ -59,7 +59,7 @@ PRODUCT_PACKAGES += \
     android.hardware.boot@1.1-mtkimpl
 
 PRODUCT_PACKAGES_DEBUG += \
-    bootctrl.mt6768
+    bootctrl
 
 # Fastbootd
 PRODUCT_PACKAGES += \
