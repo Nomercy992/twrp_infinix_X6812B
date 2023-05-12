@@ -20,5 +20,5 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 PRODUCT_DEVICE := X6812B
 PRODUCT_NAME := twrp_X6812B
 PRODUCT_BRAND := Infinix
-PRODUCT_MODEL := HOT 11S NFC
+PRODUCT_MODEL := HOT 11S
 PRODUCT_MANUFACTURER := infinix
